@@ -35,7 +35,6 @@ class RegisterViewModel(private val repository: RegisterRepository,private val a
             val email=inputUsername.value!!
             val password=inputPassword.value!!
 
-
         }
     }
 }
