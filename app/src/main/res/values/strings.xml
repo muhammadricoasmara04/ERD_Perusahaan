@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ERD_Perusahaan</string>
+    <string name="register_account">Register Account</string>
+    <string name="email">Email</string>
+    <string name="login">login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="Confirmpassword">Confirm Password</string>
+</resources>
